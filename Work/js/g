@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="" async defer></script>
+        <section id="whatwedo" class="tm-section-pad-top">
+            <div class="container">
+                <div class="row"><!-- first row -->
+                    <div class="col-lg-12 col-xl-12">
+                        <div class="tm-sort-dropdowns">
+                            <!-- Sort by dropdowns code here -->
+                        </div>
+                    </div>
+        
+                    <div class="col-lg-12 col-xl-12">
+                        <div class="tm-intro-text-container">
+                            <h2 class="tm-text-primary mb-4 tm-section-title">What We Do</h2>
+                            <p class="mb-4 tm-intro-text">
+                                This is Infinite Loop, free Bootstrap 4.0 HTML template with a parallax effect. This layout is what you can modify and use for your websites. Please spread a word to your friends about our website. Thank you for supporting us. If you have any question, you can contact us or chat with us on our <a href="https://fb.com/tooplate">Tooplate Facebook page</a>.
+                            </p>
+                        </div>
+                    </div>
+                </div><!-- first row -->
+        
+                <div class="row"><!-- accordion row -->
+                    <div class="col-lg-6 offset-lg-3">
+                        <div class="d-flex justify-content-between">
+                            <div id="accordion1" class="tm-accordion" data-parent="#accordion-container">
+                                <!-- Accordion item 1 -->
+                                <div class="card">
+                                    <div class="card-header" id="heading1">
+                                        <h3 class="mb-0">
+                                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapse1" aria-expanded="true" aria-controls="collapse1">
+                                                Accordion Item 1 <i class="fas fa-chevron-down"></i>
+                                            </button>
+                                        </h3>
+                                    </div>
+        
+                                    <div id="collapse1" class="collapse" aria-labelledby="heading1">
+                                        <div class="card-body">
+                                            Content of Accordion Item 1
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End of Accordion item 1 -->
+        
+                                <!-- Add more accordion items here -->
+                            </div>
+        
+                            <div id="accordion2" class="tm-accordion" data-parent="#accordion-container">
+                                <!-- Accordion item 2 -->
+                                <div class="card">
+                                    <div class="card-header" id="heading2">
+                                        <h3 class="mb-0">
+                                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapse2" aria-expanded="true" aria-controls="collapse2">
+                                                Accordion Item 2 <i class="fas fa-chevron-down"></i>
+                                            </button>
+                                        </h3>
+                                    </div>
+        
+                                    <div id="collapse2" class="collapse" aria-labelledby="heading2">
+                                        <div class="card-body">
+                                            Content of Accordion Item 2
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End of Accordion item 2 -->
+        
+                                <!-- Add more accordion items here -->
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- end of first accordion row -->
+        
+                <div class="row"><!-- second accordion row -->
+                    <div class="col-lg-6 offset-lg-3">
+                        <div class="d-flex justify-content-between">
+                            <div id="accordion3" class="tm-accordion" data-parent="#accordion-container">
+                                <!-- Accordion item 3 -->
+                                <div class="card">
+                                    <div class="card-header" id="heading3">
+                                        <h3 class="mb-0">
+                                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapse3" aria-expanded="true" aria-controls="collapse3">
+                                                Accordion Item 3 <i class="fas fa-chevron-down"></i>
+                                            </button>
+                                        </h3>
+                                    </div>
+        
+                                    <div id="collapse3" class="collapse" aria-labelledby="heading3">
+                                        <div class="card-body">
+                                            Content of Accordion Item 3
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End of Accordion item 3 -->
+        
+                                <!-- Add more accordion items here -->
+                            </div>
+        
+                            <div id="accordion4" class="tm-accordion" data-parent="#accordion-container">
+                                <!-- Accordion item 4 -->
+                                <div class="card">
+                                    <div class="card-header" id="heading4">
+                                        <h3 class="mb-0">
+                                            <button class="btn btn-link" data-toggle="collapse" data-target="#collapse4" aria-expanded="true" aria-controls="collapse4">
+                                                Accordion Item 4 <i class="fas fa-chevron-down"></i>
+                                            </button>
+                                        </h3>
+                                    </div>
+        
+                                    <div id="collapse4" class="collapse" aria-labelledby="heading4">
+                                        <div class="card-body">
+                                            Content of Accordion Item 4
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End of Accordion item 4 -->
+        
+                                <!-- Add more accordion items here -->
+                            </div>
+                        </div>
+                    </div>
+                </div><!-- end of second accordion row -->
+            </div>
+        </section>
+        
+    </body>
+</html>
